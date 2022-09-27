@@ -1,0 +1,21 @@
+name: myenv
+
+dependencies:
+	- python=3.8
+	- numpy
+	- matplotlib
+	- scipy
+	- pandas
+	- pillow
+	- tk
+	- seaborn
+	- networkx
+	- tensorflow
+	- keras
+	- opencv
+	- graphviz
+	- pip
+	- pip:
+		- graphviz
+		- pydot
+		- schemdraw
